@@ -49,3 +49,5 @@ builds/**/images/*
 # security / ssl
 *.pem
 *.xxjson
+01_Hello_world/trythis.txt
+01_Hello_world/trythisoneagain.txt
